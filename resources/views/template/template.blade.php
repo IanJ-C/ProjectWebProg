@@ -34,16 +34,16 @@
             <div class="collapse navbar-collapse" style="flex-grow: 0.5;" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active mx-4 fs-5 text-white" aria-current="page" href="#">Jual</a>
+                        <a class="nav-link active mx-4 fs-5 link-light" aria-current="page" href="#">Jual</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mx-4 fs-5 text-white" href="#">Beli</a>
+                        <a class="nav-link mx-4 fs-5 link-light" href="#">Beli</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mx-4 fs-5 text-white" href="#">About</a>
+                        <a class="nav-link mx-4 fs-5 link-light" href="#">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mx-4 fs-5 text-white" href="#">Contact</a>
+                        <a class="nav-link mx-4 fs-5 link-light" href="#">Contact</a>
                     </li>
                 </ul>
             </div>
