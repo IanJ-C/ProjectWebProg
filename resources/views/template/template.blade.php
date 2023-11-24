@@ -32,7 +32,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" style="flex-grow: 0.5;" id="navbarNav">
-                <ul class="navbar-nav">
+                <ul class="navbar-nav nav-underline">
                     <li class="nav-item">
                         <a class="nav-link active mx-4 fs-5 link-light" aria-current="page" href="#">Jual</a>
                     </li>
