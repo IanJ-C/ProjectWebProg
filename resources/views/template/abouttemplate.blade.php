@@ -21,7 +21,7 @@
             height: 37.5rem;
         }
         .c-img{
-            width: auto;
+            width: 100%;
             height: 100%;
             object-fit: cover;
         }
@@ -47,7 +47,7 @@
                         <a class="nav-link mx-4 fs-5 link-light" href="sell">Sell</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mx-4 fs-5 link-light" href="about">About</a>
+                        <a class="nav-link mx-4 fs-5 link-light active" aria-current="page" href="about">About</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link mx-4 fs-5 link-light" href="contact">Contact</a>

@@ -12,21 +12,17 @@
         .footer{
             background-color: rgb(255, 122, 61);
         }
-        .c-container{
-            max-width: 100%;
-            max-height: 37.5rem;
+        .icon{
+            font-size: 1.5rem;
         }
-        .c-item{
+        .s-img{
             width: 100%;
-            height: 37.5rem;
-        }
-        .c-img{
-            width: auto;
             height: 100%;
             object-fit: cover;
         }
-        .icon{
-            font-size: 1.5rem;
+        .filter-title{
+            background-color: rgb(255, 122, 61);
+            border-color: rgb(255, 122, 61);
         }
     </style>
     <title>CarSell | @yield('title')</title>
@@ -41,7 +37,7 @@
             <div class="collapse navbar-collapse" style="flex-grow: 0.5;" id="navbarNav">
                 <ul class="navbar-nav nav-underline">
                     <li class="nav-item">
-                        <a class="nav-link mx-4 fs-5 link-light" href="buy">Buy</a>
+                        <a class="nav-link mx-4 fs-5 link-light active" aria-current="page" href="buy">Buy</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link mx-4 fs-5 link-light" href="sell">Sell</a>
