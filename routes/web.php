@@ -17,6 +17,22 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/home', function() {
+Route::get('/home', function () {
     return view('home');
+});
+
+Route::get('/buy', function() {
+    return view('buy');
+});
+
+Route::get('/sell', function() {
+    return view('sell');
+});
+
+Route::get('/contact', function() {
+    return view('contact');
+});
+
+Route::get('/about', function() {
+    return view('about');
 });
